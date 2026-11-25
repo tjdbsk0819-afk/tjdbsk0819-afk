@@ -1,39 +1,118 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&text=Yuna's%20GitHub&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Yuna's%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35" />
 </div>
 
-## 👋 자기소개
+## 👋 About Me
 
 - 자율주행과 로보틱스 분야에서 경로 계획, 제어 및 강화학습에 관심이 있습니다.
 - 다양한 알고리즘과 인공지능 기술을 개발하고 검증합니다.
 - 시뮬레이션과 실제 로봇을 연결하며, 지능적이고 안정적인 자율주행 시스템을 구현하는 것을 목표로 합니다.
 
+## 🔍 Research Interests
+
+- Autonomous Driving & Mobile Robotics
+- Path Planning & Motion Control
+- Model Predictive Control (MPC)
+- Reinforcement Learning (RL)
+- Vision-Language Model (VLM)
+- Sim-to-Real Transfer
+
 ## 🛠️ Tech Stacks
 
+### Programming Languages
+
 <div align="left">
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
-    <br/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </div>
+
+### AI & Deep Learning
+
+<div align="left">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YOLO-111F68?style=flat&logo=ultralytics&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+    <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat"/>
+</div>
+
+### Robotics & Simulation
+
+<div align="left">
+    <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat&logo=nvidia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat&logo=nvidia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat"/>
+    <img src="https://img.shields.io/badge/CARLA-000000?style=flat"/>
+    <img src="https://img.shields.io/badge/Nav2-22314E?style=flat&logo=ros&logoColor=white"/>
+</div>
+
+### Optimization & Control
+
+<div align="left">
+    <img src="https://img.shields.io/badge/MPC-4169E1?style=flat"/>
+    <img src="https://img.shields.io/badge/MPPI-6A5ACD?style=flat"/>
+    <img src="https://img.shields.io/badge/acados-00599C?style=flat"/>
+    <img src="https://img.shields.io/badge/CasADi-008080?style=flat"/>
+    <img src="https://img.shields.io/badge/RSL--RL-FF6F00?style=flat"/>
+</div>
+
+### Embedded & Hardware
+
+<div align="left">
+    <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CAN%20Bus-555555?style=flat"/>
+</div>
+
+### Development Environment & Tools
+
+<div align="left">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+</div>
+
+## 🚀 Projects
+
+| Project | Description | Keywords |
+|:---|:---|:---|
+| **Autonomous Driving Control** | 복잡한 주행 환경에서의 경로 계획 및 차량 제어 알고리즘 개발 | CARLA, MPC, PID |
+| **Multi-Robot Path Planning** | 다중 로봇 환경에서의 동적 장애물 회피 및 MPC 기반 경로 계획 | MPC, acados, CasADi |
+| **Neural Swerve Control** | 강화학습 기반 Swerve Drive 제어 및 슬립 저감 연구 | Isaac Lab, PPO, RSL-RL |
+| **8D MPPI Controller** | 조향각과 휠 속도를 직접 제어하는 8차원 MPPI Controller 개발 | MPPI, ROS 2, Gazebo |
+| **Robot Simulation & Digital Twin** | 실제 환경 기반 시뮬레이션 구축 및 자율주행 시스템 검증 | Isaac Sim, Gaussian Splatting, Nav2 |
+| **Vision-Language Model** | 로봇의 상황 인식 및 행동 판단을 위한 경량 VLM 연구 | CLIP, SigLIP, Qwen |
+| **CoDrive** | 실시간 운전자 및 주행 환경 위험 인식 시스템 개발 | Jetson, CAN, XGBoost |
 
 ## 📫 Contact
 
 <div align="left">
-    <a href="">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+    <a href="YOUR_NOTION_URL">
+        <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     </a>
-    <a href="mailto:tjdbsk0819@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+    <a href="mailto:YOUR_EMAIL">
+        <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </div>
 
-## 🏅 Stats
+## 📊 GitHub Stats
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdbsk0819-afk&layout=compact" />
+<div align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=tjdbsk0819-afk&show_icons=true&theme=default&hide_border=true"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdbsk0819-afk&layout=compact&theme=default&hide_border=true"/>
+</div>
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com/?user=tjdbsk0819-afk&theme=default&hide_border=true"/>
+</div>
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
