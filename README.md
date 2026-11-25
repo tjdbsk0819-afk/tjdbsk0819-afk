@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Yuna's%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Yuna's%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35"/>
 </div>
 
 ## 👋 About Me
@@ -10,12 +10,13 @@
 
 ## 🔍 Research Interests
 
-- Autonomous Driving & Mobile Robotics
+- Autonomous Driving & Robotics
 - Path Planning & Motion Control
 - Model Predictive Control (MPC)
 - Reinforcement Learning (RL)
+- Multi-Robot Navigation
 - Vision-Language Model (VLM)
-- Sim-to-Real Transfer
+- Sim-to-Real
 
 ## 🛠️ Tech Stacks
 
@@ -35,6 +36,7 @@
     <img src="https://img.shields.io/badge/YOLO-111F68?style=flat&logo=ultralytics&logoColor=white"/>
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
     <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat"/>
+    <img src="https://img.shields.io/badge/Open3D-008080?style=flat"/>
 </div>
 
 ### Robotics & Simulation
@@ -46,6 +48,7 @@
     <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat"/>
     <img src="https://img.shields.io/badge/CARLA-000000?style=flat"/>
     <img src="https://img.shields.io/badge/Nav2-22314E?style=flat&logo=ros&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MORAI-00599C?style=flat"/>
 </div>
 
 ### Optimization & Control
@@ -81,24 +84,40 @@
 
 ## 🚀 Projects
 
-| Project | Description | Keywords |
+| Project | Description | Tech Stack |
 |:---|:---|:---|
-| **Autonomous Driving Control** | 복잡한 주행 환경에서의 경로 계획 및 차량 제어 알고리즘 개발 | CARLA, MPC, PID |
-| **Multi-Robot Path Planning** | 다중 로봇 환경에서의 동적 장애물 회피 및 MPC 기반 경로 계획 | MPC, acados, CasADi |
-| **Neural Swerve Control** | 강화학습 기반 Swerve Drive 제어 및 슬립 저감 연구 | Isaac Lab, PPO, RSL-RL |
-| **8D MPPI Controller** | 조향각과 휠 속도를 직접 제어하는 8차원 MPPI Controller 개발 | MPPI, ROS 2, Gazebo |
-| **Robot Simulation & Digital Twin** | 실제 환경 기반 시뮬레이션 구축 및 자율주행 시스템 검증 | Isaac Sim, Gaussian Splatting, Nav2 |
-| **Vision-Language Model** | 로봇의 상황 인식 및 행동 판단을 위한 경량 VLM 연구 | CLIP, SigLIP, Qwen |
-| **CoDrive** | 실시간 운전자 및 주행 환경 위험 인식 시스템 개발 | Jetson, CAN, XGBoost |
+| **Neural Swerve Control** | Swerve Drive의 슬립 저감 및 제어 성능 개선을 위한 강화학습 기반 제어 모델 개발 | Isaac Lab, PPO, RSL-RL |
+| **Multi-Robot MPC** | 다중 로봇 환경에서 Decentralized MPC 기반 경로 계획 및 동적 장애물 회피 알고리즘 비교 | MPC, acados, CasADi |
+| **8D MPPI Controller** | 조향각 4개와 휠 속도 4개를 직접 제어하는 8차원 MPPI Controller 개발 | MPPI, ROS 2, Gazebo |
+| **Robot Simulation & Digital Twin** | Gaussian Splatting 기반 실제 환경 재구성 및 자율주행 시뮬레이션 구축 | Isaac Sim, Open3D, Nav2 |
+| **Lightweight VLM** | 로봇의 상황 인식 및 행동 판단을 위한 경량 Vision-Language Model 연구 | CLIP, SigLIP, Qwen, PyTorch |
+| **CO-DRIVE** | 멀티모달 상황 해석 기반 실시간 운전자 위험 인식 및 경고 시스템 개발 | Jetson, Raspberry Pi, XGBoost, CAN |
+| **Autonomous Driving in CARLA** | 복잡한 주행 환경에서 장애물 회피 및 선행 차량 추종을 위한 제어 알고리즘 개발 | CARLA, PID, Pure Pursuit, Stanley, DWA |
+| **Autonomous Racing** | LiDAR 기반 장애물 인식, 주행 경로 생성 및 차량 경로 추종 알고리즘 개발 | ROS 2, DBSCAN, B-Spline, Pure Pursuit |
 
-## 📫 Contact
+## 🏆 Contest & Awards
+
+| Year | Competition | Result |
+|:---:|:---|:---|
+| 2026 | 제24회 임베디드SW경진대회 | <img src="https://img.shields.io/badge/본선진출-2563EB?style=flat"/> |
+| 2026 | HL FMA 자율주행 경진대회 (1/5 Scale) | <img src="https://img.shields.io/badge/장려상-CD7F32?style=flat"/> |
+| 2026 | 국민대학교 자율주행 경진대회 (1/10 Scale) | <img src="https://img.shields.io/badge/수료-2E8B57?style=flat"/> |
+| 2025 | EV 자율주행 경진대회 (1/10 자작) | <img src="https://img.shields.io/badge/3등-CD7F32?style=flat"/> |
+| 2025 | HL FMA 자율주행 경진대회 (1/5 Scale) | <img src="https://img.shields.io/badge/장려상-CD7F32?style=flat"/> |
+| 2025 | MORAI 시뮬레이션 경진대회 | <img src="https://img.shields.io/badge/장려상-CD7F32?style=flat"/> |
+| 2025 | 창작 모빌리티 경진대회 | <img src="https://img.shields.io/badge/참가-64748B?style=flat"/> |
+
+## 📫 Contact & Portfolio
 
 <div align="left">
     <a href="YOUR_NOTION_URL">
         <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     </a>
     <a href="mailto:YOUR_EMAIL">
-        <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/tjdbsk0819-afk">
+        <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
 </div>
 
