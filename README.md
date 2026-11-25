@@ -110,10 +110,10 @@
 ## 📫 Contact & Portfolio
 
 <div align="left">
-    <a href="YOUR_NOTION_URL">
+    <a href="https://accidental-punch-2ec.notion.site/ccf6ef5153df83d2b55981099ea7b890?pvs=143">
         <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     </a>
-    <a href="mailto:YOUR_EMAIL">
+    <a href="mailto:tjdbsk0819@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://github.com/tjdbsk0819-afk">
