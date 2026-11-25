@@ -24,10 +24,10 @@
 ## 📫 Contact
 
 <div align="left">
-    <a href="YOUR_NOTION_URL">
+    <a href="">
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
     </a>
-    <a href="mailto:YOUR_EMAIL">
+    <a href="mailto:tjdbsk0819@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
     </a>
 </div>
